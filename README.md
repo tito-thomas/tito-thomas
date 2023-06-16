@@ -5,3 +5,5 @@ Hi there, I'm Tito, Final Year Computer Science student at Cardiff University.
 I enjoy programming in Python and also building web apps with ASP.NET.
 
 You can take a look at some of my personal projects here.
+
+[![Tito's GitHub stats](https://github-readme-stats.vercel.app/api?username=tito-thomas&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
