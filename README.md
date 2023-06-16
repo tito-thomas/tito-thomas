@@ -6,4 +6,4 @@ I enjoy programming in Python and also building web apps with ASP.NET.
 
 You can take a look at some of my personal projects here.
 
-[![Tito's GitHub stats](https://github-readme-stats.vercel.app/api?username=tito-thomas&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Tito's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tito-thomas&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
