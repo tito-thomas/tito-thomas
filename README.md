@@ -1,6 +1,6 @@
 ###  About me 👋
 
-Graduated with a Bachelor's in Computer Science Graduate at Cardiff University.  
+Graduated with a Bachelor's in Computer Science at Cardiff University.  
 
 I have one year of industrial placement experience at Next as a Software Developer.
 
