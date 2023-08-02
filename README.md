@@ -1,3 +1,6 @@
+<img src="https://github.com/tito-thomas/tito-thomas/blob/main/name.PNG">
+
+
 ###  About me 👋
 
 Graduated with a Bachelor's in Computer Science at Cardiff University.  
